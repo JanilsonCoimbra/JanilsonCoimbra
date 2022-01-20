@@ -1,4 +1,7 @@
 ### Hi there 👋
+Natural de Salvador-BA, Estudante de desenvolvimento de sistemas Web FullStack, gosto muito da área tecnológica e destrinchar seus conceitos.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanilsonCoimbra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JanilsonCoimbra/JanilsonCoimbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
