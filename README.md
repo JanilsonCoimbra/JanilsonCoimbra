@@ -5,7 +5,7 @@ Natural de Salvador-BA, Estudante de desenvolvimento de sistemas Web FullStack, 
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanilsonCoimbra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/JanilsonCoimbra/Projeto-AgenciaViagem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanilsonCoimbra&repo=Projeto-AgenciaViagem" />
 </a>
 <!--
