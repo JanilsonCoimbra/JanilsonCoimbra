@@ -12,10 +12,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanilsonCoimbra&repo=Projeto-AgenciaViagem" />
 </a>
 <a href="https://github.com/JanilsonCoimbra/Progamando-em-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanilsonCoimbra&repo=Projeto-Progamando em Python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanilsonCoimbra&repo=Projeto-Progamando-em-Python" />
 </a>
 <a href="https://github.com/JanilsonCoimbra/CorelDraw2020-Projetos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanilsonCoimbra&repo=CorelDraw2020 Projetos" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanilsonCoimbra&repo=CorelDraw2020-Projetos" />
 </a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanilsonCoimbra&theme=Gradiente)](https://github.com/anuraghazra/github-readme-stats)
