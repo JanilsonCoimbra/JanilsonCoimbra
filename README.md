@@ -57,6 +57,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=JanilsonCoimbra&theme=Gradiente"/>
 </div>
 <div>
+  <img src="https://github.com/JanilsonCoimbra/JanilsonCoimbra/blob/output/github-contribution-grid-snake.svg"/>
   ![Snake animation](https://github.com/JanilsonCoimbra/JanilsonCoimbra/blob/output/github-contribution-grid-snake.svg)
 </div>  
 <h3>Redes sociais</h3>
