@@ -11,14 +11,18 @@
 <a href="https://github.com/JanilsonCoimbra/Projeto-AgenciaViagem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanilsonCoimbra&repo=Projeto-AgenciaViagem" />
 </a>
+<a href="https://github.com/JanilsonCoimbra/Progamando-em-Python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanilsonCoimbra&repo=Projeto-Progamando em Python" />
+</a>
+<a href="https://github.com/JanilsonCoimbra/CorelDraw2020-Projetos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanilsonCoimbra&repo=CorelDraw2020 Projetos" />
+</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanilsonCoimbra&theme=Gradiente)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanilsonCoimbra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/JanilsonCoimbra/Projeto-AgenciaViagem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanilsonCoimbra&repo=Projeto-AgenciaViagem" />
-</a>
+
 <!--
 **JanilsonCoimbra/JanilsonCoimbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
