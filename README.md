@@ -56,7 +56,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JanilsonCoimbra&theme=Gradiente"/>
 </div>
-![snake gif](https://github.com/JanilsonCoimbra/JanilsonCoimbra/blob/output/github-contribution-grid-snake.gif)
+  ![Snake animation](https://github.com/JanilsonCoimbra/JanilsonCoimbra/blob/output/github-contribution-grid-snake.svg)
 <h3>Redes sociais</h3>
 <a href="https://github.com/JanilsonCoimbra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:janilson.coimbra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
