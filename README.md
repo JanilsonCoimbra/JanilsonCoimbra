@@ -8,7 +8,6 @@
 <h3>Projetos</h3>
 <p>Estou sempre procurando participar de projetos, e aprender com eles no dia a dia em seu andamento.</p>
 <p><b>Segue alguns projetos</b></p>
-<br/>
 <a href="https://github.com/JanilsonCoimbra/Projeto-AgenciaViagem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanilsonCoimbra&repo=Projeto-AgenciaViagem" />
 </a>
@@ -20,6 +19,14 @@
 </a>
 <h3>Instrumentos de trabalhos</h3>
 <p>Meu objetivo é resolver problemas, e segue alguns instrumentos que uso para trabalho eficiente.</p>
+
+<Strong>Programação</Strong>
+<a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
+<a href="https://github.com/JanilsonCoimbra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/JanilsonCoimbra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/JanilsonCoimbra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanilsonCoimbra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
