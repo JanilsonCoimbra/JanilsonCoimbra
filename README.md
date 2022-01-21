@@ -20,14 +20,14 @@
 <h3>Instrumentos de trabalhos</h3>
 <p>Meu objetivo é resolver problemas, e segue alguns instrumentos que uso para trabalho eficiente.</p>
 <section>
-<Strong id="programacao">Programação</Strong>
+<Strong id="programacao">Programação</Strong><br/>
 <a href="#programacao"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
 <a href="#programacao"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
 <a href="#programacao"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
 </section>
 <section>
 <hr>
-<Strong id="programacao">Frameworks</Strong>
+<Strong id="programacao">Frameworks</Strong><br/>
 
 <a href="#programacao"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
 <a href="#programacao"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
@@ -37,13 +37,13 @@
 </section>
 <section>
 <hr>
-<Strong id="programacao">Marcação</Strong>
+<Strong id="programacao">Marcação</Strong><br/>
 <a href="#programacao"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="#programacao"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 </section>
 <section>
 <hr>
-<Strong id="programacao">IDE e Editores</Strong>
+<Strong id="programacao">IDE e Editores</Strong><br/>
 <a href="#programacao"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/></a>
 <a href="#programacao"><img src="https://img.shields.io/badge/netbeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/></a>
 <a href="#programacao"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/></a>
