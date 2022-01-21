@@ -51,6 +51,11 @@
 <a href="#programacao"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
 </section>
 <hr>
+<Strong id="programacao">Banco de dados</Strong><br/>
+<a href="#programacao"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/></a>
+<a href="#programacao"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+
+<hr>
 <Strong id="programacao">Versionamento</Strong><br/>
 <a href="#programacao"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
 <div align="center">
