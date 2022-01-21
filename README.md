@@ -17,23 +17,13 @@
 <a href="https://github.com/JanilsonCoimbra/CorelDraw2020-Projetos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanilsonCoimbra&repo=CorelDraw2020-Projetos" />
 </a>
+<h3>Instrumentos de trabalhos</h3>
+<p>Meu objetivo é resolver problemas, e segue alguns instrumentos que uso para trabalho eficiente.</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanilsonCoimbra&theme=Gradiente)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanilsonCoimbra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanilsonCoimbra&theme=Gradiente)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**JanilsonCoimbra/JanilsonCoimbra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Redes sociais</h3>
+<img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465"/>
