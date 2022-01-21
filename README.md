@@ -8,7 +8,7 @@
 <h3>Projetos</h3>
 <p>Estou sempre procurando participar de projetos, e aprender com eles no dia a dia em seu andamento.</p>
 <p><b>Segue alguns projetos</b></p>
-<a href="https://github.com/JanilsonCoimbra/Projeto-AgenciaViagem">
+<a href="https://github.com/JanilsonCoimbra/Projeto-AgenciaViagem.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanilsonCoimbra&repo=Projeto-AgenciaViagem" />
 </a>
 <a href="https://github.com/JanilsonCoimbra/Progamando-em-Python">
