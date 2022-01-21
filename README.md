@@ -26,8 +26,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanilsonCoimbra&theme=Gradiente)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Redes sociais</h3>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-
+<a href="https://github.com/JanilsonCoimbra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:janilson.coimbra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/janilson-coimbra-780761209/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/janilsoncoimbra/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://api.whatsapp.com/send?phone=5571985011600&text=Oi%20Janilson%2C%20vim%20do%20portifolio%20no%20linkedin"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
