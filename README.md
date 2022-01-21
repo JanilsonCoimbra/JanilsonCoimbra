@@ -20,8 +20,8 @@
 <h3>Instrumentos de trabalhos</h3>
 <p>Meu objetivo é resolver problemas, e segue alguns instrumentos que uso para trabalho eficiente.</p>
 
-<Strong>Programação</Strong>
-<a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
+<Strong id="programacao">Programação</Strong>
+<a href="#programacao"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
 <a href="https://github.com/JanilsonCoimbra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/JanilsonCoimbra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/JanilsonCoimbra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
