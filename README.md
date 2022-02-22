@@ -17,6 +17,10 @@
 <a href="https://github.com/JanilsonCoimbra/CorelDraw2020-Projetos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanilsonCoimbra&repo=CorelDraw2020-Projetos" />
 </a>
+<a href="https://github.com/JanilsonCoimbra/Projeto-AgenciaViagem-React-Java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JanilsonCoimbra&repo=Projeto-AgenciaViagem-React-Java" />
+</a>
+
 <h3>Instrumentos de trabalhos</h3>
 <p>Meu objetivo é resolver problemas, e segue alguns instrumentos que uso para trabalho eficiente.</p>
 <section>
@@ -34,6 +38,7 @@
 <a href="#programacao"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 <a href="#programacao"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/></a>
 <a href="#programacao"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/></a>
+<a href="#programacao"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>  
 </section>
 <section>
 <hr>
@@ -54,10 +59,15 @@
 <Strong id="programacao">Banco de dados</Strong><br/>
 <a href="#programacao"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/></a>
 <a href="#programacao"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+</a>
+<a href="#programacao"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+
 
 <hr>
 <Strong id="programacao">Versionamento</Strong><br/>
 <a href="#programacao"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="#programacao"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JanilsonCoimbra&theme=Gradiente"/>
 </div>
